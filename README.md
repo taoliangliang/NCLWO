@@ -1,1 +1,3 @@
-NCLWO OverSampling Algorithm Oversampling class with the main methods required by scikit-learn and numpy
+NCLWO OverSampling Algorithm  
+X is feature matrix ,y is label array
+resample_X, resample_y = NCLWO().fit_sample(X, y)
